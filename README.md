@@ -4,8 +4,6 @@ An educational computer vision project for detecting vehicles, counting traffic,
 
 Given a traffic image or video, the application can identify supported vehicle categories, annotate detections, and present vehicle-count results. Video tracking, traffic-level classification, CSV export, and processed-video downloads depend on the features enabled in the local implementation.
 
-> **Implementation note:** This README describes the intended project workflow. Confirm each feature against your actual `app.py` before presenting it as implemented. In particular, counting detections per frame is different from counting unique vehicles across a video, and vehicle count alone is not a calibrated measurement of road density.
-
 ## Project goals
 
 This project explores how AI-based object detection and computer vision can support traffic monitoring. Its goals are to:
@@ -255,13 +253,9 @@ This project is intended for educational and demonstration purposes. It is not a
 
 ## Author
 
-**PRITHYADARSHAN T**  
-B.E. Computer Science and Engineering (AI & ML)  
-Saranathan College of Engineering, Tiruchirappalli, Tamil Nadu, India
+PRITHIYADARSHAN T  
+Computer Science and Engineering (Artificial Intelligence & Machine Learning)  
+GitHub: [github.com/prithyadarshan](https://github.com/prithyadarshan)  
+LinkedIn: [linkedin.com/in/prithiyadarshan-thiyagarajan-379a4b2a3](https://www.linkedin.com/in/prithiyadarshan-thiyagarajan-379a4b2a3)
 
-- GitHub: [github.com/prithyadarshan](https://github.com/prithyadarshan)
-- Portfolio: [prithyadarshan-thiyagarajan.netlify.app](https://prithyadarshan-thiyagarajan.netlify.app)
 
----
-
-*An educational project exploring AI-based vehicle detection, computer vision, vehicle counting, and traffic-level estimation.*
